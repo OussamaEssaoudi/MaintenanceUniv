@@ -1,3 +1,21 @@
+## if admin : you will have a list of users
+![web1](https://user-images.githubusercontent.com/47917182/159103634-724bf055-4f59-43f3-ad9a-4d02b4bcb892.jpg)
+
+## if maintenance manager : this will be your dashboard
+![web2](https://user-images.githubusercontent.com/47917182/159103673-45759c0c-b375-46ec-af6f-2a9cfa4f0c22.jpg)
+
+### Tickets that you should resolve
+![web3](https://user-images.githubusercontent.com/47917182/159103708-d1e69c44-6e8d-4aa4-85a0-9611daaa9fdd.jpg)
+
+### University resources you are managing
+![web4](https://user-images.githubusercontent.com/47917182/159103755-c9f64f23-1f02-40f2-94fa-6c260da19622.jpg)
+
+## if normal user and you scanned a resoure qrcode : you can send a ticket
+![web5](https://user-images.githubusercontent.com/47917182/159103796-f00e4d62-0a7c-4f10-acc9-dd343baa12b9.jpg)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
